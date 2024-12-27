@@ -445,6 +445,7 @@ button:focus {
 .footer-logo {
   margin-bottom: 16px;
   display: inline-block;
+  padding: 0;
 }
 .page-logo-second-part {
   color: #f4f4fd;
@@ -525,6 +526,7 @@ button:focus {
 
 .subscribe-img {
   margin-left: 16px;
+  fill: #fff;
 }
 .subscribe-input {
   border: 1px solid #fff;
