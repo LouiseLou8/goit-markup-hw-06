@@ -4,61 +4,9 @@
 
 /* HERO SECTION */
 
-.main-section {
-}
-
 /* /HERO SECTION */
 
 /* OUR BENEFITS SECTION*/
-
-.benefits-section {
-  padding: 120px 0;
-}
-.benefits-menu {
-  display: flex;
-  gap: 24px;
-}
-.benefits-menu-item {
-  width: calc((100% - 72px) / 4);
-  margin-left: auto;
-  margin-right: auto;
-}
-.benefits-icon {
-  display: flex;
-  margin: 24px auto;
-}
-
-.icon-wrap {
-  background-color: #f4f4fd;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  width: 264px;
-  height: 112px;
-  margin-bottom: 8px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.benefits-name {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 120%;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  font-family: 'Roboto', 'sans-serif';
-}
-.benefits-name {
-  margin-bottom: 8px;
-}
-.benefits-description {
-  font-family: 'Roboto', 'sans-serif';
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
 /* /OUR TEAM SECTION*/
 
